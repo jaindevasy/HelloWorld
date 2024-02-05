@@ -5,10 +5,5 @@ int main() {
    // printf() displays the string inside quotation
 	printf("Hello, World! This is fetched from remote repo\r\n");
    
-   while(1)
-   {
-	   sleep(1);
-   }
-   
    return 0;
 }
