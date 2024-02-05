@@ -3,7 +3,7 @@
 
 int main() {
    // printf() displays the string inside quotation
-	printf("Hello, World!\r\n");
+	printf("Hello, World! This is fetched from remote repo\r\n");
    
    while(1)
    {
